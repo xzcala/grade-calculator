@@ -26,7 +26,7 @@ import javafx.stage.Stage;
  *
  * @author Jon
  */
-public class gradeCalculator extends Application {
+public class GradeCalculator extends Application {
     
     @Override
     public void start(Stage primaryStage) {
